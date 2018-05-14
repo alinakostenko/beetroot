@@ -1,0 +1,33 @@
+h1 {
+    text-align: center
+}
+
+h2 {
+    font-family: Arial, Tahoma, sans-serif;
+    font-size:30px;
+}
+
+h3 {
+    font-family: Arial, Tahoma, sans-serif;
+    font-size: 25px;
+    color: #313339;
+    position: relative;
+    left: 50px;
+}
+
+.info {
+    background-color: #FFFFFF;
+    position: relative;
+    left: 100px;
+}
+
+div {
+    background-color: #EEF0F0;
+    position: relative;
+    left: 150px;
+    margin-right: 300px;
+}
+
+
+
+
